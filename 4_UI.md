@@ -9,7 +9,7 @@
 
 ### Общий вид
 
-![scr_RCbuttons](C:\GitHub\adapter-BTA\pic\scr_RCbuttons.png)
+![scr_RCbuttons](pic/scr_RCbuttons.png)
 
 
 
@@ -17,13 +17,13 @@
 
 Запускается кнопкой `PA ROTATION`
 
-![scr_PArotation](C:\GitHub\adapter-BTA\pic\scr_PArotation.png)
+![scr_PArotation](pic/scr_PArotation.png)
 
 
 
 ### Поиск звезд гидирования
 
-![scr_FindStars](C:\GitHub\adapter-BTA\pic\scr_FindStars.png)
+![scr_FindStars](pic/scr_FindStars.png)
 
 
 
