@@ -3,10 +3,6 @@
 
 Иконки программ управления SCORPIO и камерой гидирования Atik: ![scorpio2Icon](pic/scorpio2Icon.png) ![scr_GuideIcon](pic/scr_GuideIcon.png)
 
-## 
-
-Иконка для запуска гида на основе камеры Atik:Интерфейс управления в составе оболочки SCORPIO
-
 ### Общий вид
 
 ![scr_RCbuttons](pic/scr_RCbuttons.png)
