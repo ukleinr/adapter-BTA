@@ -3,7 +3,7 @@
 
 До начала работы необходимо запустить основную оболочку SCORPIO и программу гидирования.
 
-Иконка для запуска гида на основе камеры Atik: ![scr_GuideIcon](C:\GitHub\adapter-BTA\pic\scr_GuideIcon.png)
+Иконка для запуска гида на основе камеры Atik: ![scr_GuideIcon](pic\scr_GuideIcon.png)
 
 
 
