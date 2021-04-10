@@ -1,6 +1,4 @@
-```
 [![САО РАН](pic/SAO_logoALL3.png)](https://www.sao.ru) 
-```
 
 # Адаптер ПФ БТА. 
 
