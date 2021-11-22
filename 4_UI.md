@@ -164,6 +164,12 @@
 
 Рис. *Основное окно управления подсмотром и гидированием AtikGuide в режиме FIBERS.*
 
+
+
+![Adapter_Fibers](pic/Adapter_Fibers.png)
+
+Рис. *Схема движения фиберов в самом приборе*.
+
 **FIXME** - обновить картинку FIBERS, добавить стрелки AZ, две звезды разной яркости по центру с включенными опциями FIX Guiding Box, MON PLOT, guide log и гидированием (зеленым).
 
 **FIXME** - SAVE FITS need debug
